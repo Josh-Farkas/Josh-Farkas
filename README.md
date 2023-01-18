@@ -8,7 +8,10 @@ Hey, I'm <ins>Josh Farkas</ins>
   Game Development, Artificial Intelligence, and Simulations
   
 <b>Languages:</b> 
-  I know Java, Python, C++, and some JavaScript
+  Know Well:
+    Java, Python
+  Know Some:
+    C++ and JavaScript
   
 <h3>Contact:</h3>
   You can contact me at JoshFFarkas@gmail.com
