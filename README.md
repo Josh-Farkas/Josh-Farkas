@@ -2,7 +2,7 @@ Hey, I'm <ins>Josh Farkas</ins>
 <h3>About Me:</h3>
 
 <b>Education:</b>
-  I'm a current student at Seattle Academy, and I've taken a class at the University of Washington
+  I'm a current student at Seattle Academy, and I've taken CSE 143 at the University of Washington
  
 <b>Interests:</b>
   Game Development, Artificial Intelligence, and Simulations
